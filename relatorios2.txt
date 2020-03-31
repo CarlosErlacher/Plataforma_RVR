@@ -1,0 +1,993 @@
+Relatorio do periodo de 2020-01 a 2020-02
+ 
+
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : \N
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Rose_Alvorada
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Omega_Metalurgica
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Escritorio
+        --> Venda - R$1477.49 
+        --> Custo - R$349.11
+        --> Lucro - R$1128.37
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : DY_Transportes
+        --> Venda - R$290.73 
+        --> Custo - R$62.08
+        --> Lucro - R$228.66
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Loma_Plast
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Viviane_ArujaClub
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Minercal
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Bytilly
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Carlos_Erlacher
+        --> Venda - R$83.78 
+        --> Custo - R$21.32
+        --> Lucro - R$62.47
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Clovis_Country
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Diego_Takaki
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Metallu
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Yuri_Carvalho
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Cokimoveis
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Marina_Cordeiro
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : mca_provider
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Daniel_ArujaClub
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : bsa_Bruno_Lima
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Previzon
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : renato_casa
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Barriga_Chopp
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Rafael_Spadaro
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Max_Power
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : bb2_confeccao
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Marcio_MCA
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Maurinho
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Maria_Gandra
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Terezinha_Oliveira
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Marcelo_Grecca
+        --> Venda - R$7236.60 
+        --> Custo - R$1347.00
+        --> Lucro - R$5889.59
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Luiz_Gonzaga
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Perfil2000
+        --> Venda - R$73.70 
+        --> Custo - R$18.79
+        --> Lucro - R$54.92
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Mca_Billing
+        --> Venda - R$2553.61 
+        --> Custo - R$566.46
+        --> Lucro - R$1987.15
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Cybelle_ViverAruja
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : root
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Fabio_OAB
+        --> Venda - R$35.21 
+        --> Custo - R$7.15
+        --> Lucro - R$28.06
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Grupo_MAX
+        --> Venda - R$213.56 
+        --> Custo - R$52.13
+        --> Lucro - R$161.44
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : YN_Empreendimentos
+        --> Venda - R$3.64 
+        --> Custo - R$0.96
+        --> Lucro - R$2.69
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Luiza_Cristina
+        --> Venda - R$47.13 
+        --> Custo - R$5.31
+        --> Lucro - R$41.82
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Texdecor
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Marcelo_Padaria
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Rellu_Cosmeticos
+        --> Venda - R$172.10 
+        --> Custo - R$49.17
+        --> Lucro - R$122.94
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : magnus
+        --> Venda - R$0.07 
+        --> Custo - R$0.01
+        --> Lucro - R$0.06
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : H3000_Billing
+        --> Venda - R$1354.58 
+        --> Custo - R$856.00
+        --> Lucro - R$498.58
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : NewTech
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Leonam
+        --> Venda - R$115.67 
+        --> Custo - R$29.10
+        --> Lucro - R$86.57
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Fenicia
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Lender
+        --> Venda - R$1365.18 
+        --> Custo - R$284.09
+        --> Lucro - R$1081.09
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Barbara
+        --> Venda - R$86.56 
+        --> Custo - R$11.37
+        --> Lucro - R$75.19
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Pem_Transportes
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Vale_do_sol
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Granlabor
+        --> Venda - R$138.31 
+        --> Custo - R$19.83
+        --> Lucro - R$118.47
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : GoIP
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Daniel_Marim
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : CbNet
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Leonardy
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : embalamais_bruno
+        --> Venda - R$35.89 
+        --> Custo - R$12.01
+        --> Lucro - R$23.88
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Francielli_Clinio
+        --> Venda - R$0.75 
+        --> Custo - R$0.09
+        --> Lucro - R$0.66
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Sthylluz_Reparos
+        --> Venda - R$1030.44 
+        --> Custo - R$243.58
+        --> Lucro - R$786.86
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Estronda_Calcados
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Voip_Link
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Nelson_Luiz
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Komandant_Parts
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Pem_Transportes2
+        --> Venda - R$1476.21 
+        --> Custo - R$338.84
+        --> Lucro - R$1137.37
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : brshield
+        --> Venda - R$9191.40 
+        --> Custo - R$7022.40
+        --> Lucro - R$2169.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Marcio_DDI
+        --> Venda - R$1.27 
+        --> Custo - R$0.19
+        --> Lucro - R$1.09
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : vsip
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Felipe_Tatuzinho
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : EdvaldoMuniz
+        --> Venda - R$145.54 
+        --> Custo - R$19.65
+        --> Lucro - R$125.89
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : vipway
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : polianaApCarvalho
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : MarceloReinaldo
+        --> Venda - R$73.33 
+        --> Custo - R$20.10
+        --> Lucro - R$53.23
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Dr_Gabriela
+        --> Venda - R$413.54 
+        --> Custo - R$87.15
+        --> Lucro - R$326.39
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : MonicaSanches
+        --> Venda - R$499.70 
+        --> Custo - R$63.79
+        --> Lucro - R$435.91
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : EmpireImoveis
+        --> Venda - R$469.16 
+        --> Custo - R$101.05
+        --> Lucro - R$368.10
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : LeardiRodrigo
+        --> Venda - R$12.77 
+        --> Custo - R$3.22
+        --> Lucro - R$9.55
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Villa_Frati
+        --> Venda - R$132.86 
+        --> Custo - R$32.89
+        --> Lucro - R$99.97
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : EsferaQuimica
+        --> Venda - R$122.70 
+        --> Custo - R$18.08
+        --> Lucro - R$104.61
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : RobertoNalvaAndrade
+        --> Venda - R$407.83 
+        --> Custo - R$52.41
+        --> Lucro - R$355.42
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : AndreiaTuttiDepil
+        --> Venda - R$3195.08 
+        --> Custo - R$582.18
+        --> Lucro - R$2612.90
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : CiceroNunes
+        --> Venda - R$23.91 
+        --> Custo - R$3.38
+        --> Lucro - R$20.53
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : jacarei_agricultura
+        --> Venda - R$11477.50 
+        --> Custo - R$2230.15
+        --> Lucro - R$9247.35
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : jucara
+        --> Venda - R$27.57 
+        --> Custo - R$2.58
+        --> Lucro - R$25.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : SMSEmpilhadeiras
+        --> Venda - R$1100.40 
+        --> Custo - R$262.12
+        --> Lucro - R$838.28
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : OrlandoBatista
+        --> Venda - R$314.69 
+        --> Custo - R$37.85
+        --> Lucro - R$276.85
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : sapotelecom
+        --> Venda - R$20.30 
+        --> Custo - R$12.59
+        --> Lucro - R$7.71
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : JoaoJoseDosSantos
+        --> Venda - R$267.77 
+        --> Custo - R$32.90
+        --> Lucro - R$234.87
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : JBacus
+        --> Venda - R$14.37 
+        --> Custo - R$3.23
+        --> Lucro - R$11.13
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : iobi_consult
+        --> Venda - R$16.80 
+        --> Custo - R$2.47
+        --> Lucro - R$14.33
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : felipe_teste
+        --> Venda - R$1.67 
+        --> Custo - R$0.32
+        --> Lucro - R$1.36
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : posto_progresso
+        --> Venda - R$134.09 
+        --> Custo - R$20.65
+        --> Lucro - R$113.43
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : NelsonSchwarz
+        --> Venda - R$9.38 
+        --> Custo - R$1.34
+        --> Lucro - R$8.04
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : jackeline
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : EvertonThomas
+        --> Venda - R$18.52 
+        --> Custo - R$2.24
+        --> Lucro - R$16.28
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : JanainaOliveira
+        --> Venda - R$89.67 
+        --> Custo - R$12.15
+        --> Lucro - R$77.52
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Festcolor
+        --> Venda - R$1554.83 
+        --> Custo - R$254.12
+        --> Lucro - R$1300.71
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Vastima
+        --> Venda - R$193.29 
+        --> Custo - R$35.93
+        --> Lucro - R$157.36
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : VictorValentino
+        --> Venda - R$4.36 
+        --> Custo - R$0.36
+        --> Lucro - R$4.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : VivianeDeJesus
+        --> Venda - R$203.52 
+        --> Custo - R$20.24
+        --> Lucro - R$183.27
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : FernandaPenno
+        --> Venda - R$87.11 
+        --> Custo - R$9.27
+        --> Lucro - R$77.84
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Dellapar
+        --> Venda - R$227.90 
+        --> Custo - R$45.97
+        --> Lucro - R$181.93
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : IESS
+        --> Venda - R$338.09 
+        --> Custo - R$50.19
+        --> Lucro - R$287.90
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Balan
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : comerciomagnus
+        --> Venda - R$1.46 
+        --> Custo - R$0.20
+        --> Lucro - R$1.27
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : Maria_Pereira
+        --> Venda - R$47.36 
+        --> Custo - R$4.35
+        --> Lucro - R$43.01
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : NeoFormar
+        --> Venda - R$46.01 
+        --> Custo - R$4.34
+        --> Lucro - R$41.67
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : moldurense
+        --> Venda - R$5.45 
+        --> Custo - R$0.85
+        --> Lucro - R$4.60
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : FabioLopesEverton
+        --> Venda - R$11.35 
+        --> Custo - R$1.71
+        --> Lucro - R$9.64
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : ClinicaAmorSaude
+        --> Venda - R$0.00 
+        --> Custo - R$0.00
+        --> Lucro - R$0.00
+        ===============================================
+        
+        
+        ==============================================
+        Segue abaixo os valores selecionados:
+        Cliente : MetaZeevPapeis
+        --> Venda - R$0.28 
+        --> Custo - R$0.03
+        --> Lucro - R$0.24
+        ===============================================
+        
+        
